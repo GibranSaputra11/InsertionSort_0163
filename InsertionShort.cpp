@@ -70,4 +70,5 @@ void display()
 int main()
 {
     input(); //Memanggil prosedur input
+    insertiosnShort(); //Memanggil prosedur insertionshort
 }
