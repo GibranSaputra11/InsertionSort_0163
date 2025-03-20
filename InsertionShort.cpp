@@ -69,4 +69,5 @@ void display()
 
 int main()
 {
+    input(); //Memanggil prosedur input
 }
